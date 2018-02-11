@@ -1,0 +1,5 @@
+D:\github\.Net\GCD\GCD\bin\Debug\GCD.dll
+D:\github\.Net\GCD\GCD\bin\Debug\GCD.pdb
+D:\github\.Net\GCD\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+D:\github\.Net\GCD\GCD\obj\Debug\GCD.dll
+D:\github\.Net\GCD\GCD\obj\Debug\GCD.pdb

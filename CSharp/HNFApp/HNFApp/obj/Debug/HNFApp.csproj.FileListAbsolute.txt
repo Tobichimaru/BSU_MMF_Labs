@@ -1,0 +1,5 @@
+D:\github\.Net\HNFApp\HNFApp\bin\Debug\HNFApp.dll
+D:\github\.Net\HNFApp\HNFApp\bin\Debug\HNFApp.pdb
+D:\github\.Net\HNFApp\HNFApp\obj\Debug\HNFApp.csprojResolveAssemblyReference.cache
+D:\github\.Net\HNFApp\HNFApp\obj\Debug\HNFApp.dll
+D:\github\.Net\HNFApp\HNFApp\obj\Debug\HNFApp.pdb

@@ -1,0 +1,8 @@
+D:\github\.Net\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.dll.config
+D:\github\.Net\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.dll
+D:\github\.Net\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.pdb
+D:\github\.Net\ArrayApplication\ArrayApplication\bin\Debug\nunit.framework.dll
+D:\github\.Net\ArrayApplication\ArrayApplication\bin\Debug\nunit.framework.xml
+D:\github\.Net\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.dll
+D:\github\.Net\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.pdb
+D:\github\.Net\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.csprojResolveAssemblyReference.cache

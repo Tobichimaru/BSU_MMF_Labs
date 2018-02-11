@@ -1,0 +1,7 @@
+D:\github\.Net\DemoApp\LogicUnitTests\bin\Debug\LogicUnitTests.dll
+D:\github\.Net\DemoApp\LogicUnitTests\bin\Debug\LogicUnitTests.pdb
+D:\github\.Net\DemoApp\LogicUnitTests\bin\Debug\DemoApp.dll
+D:\github\.Net\DemoApp\LogicUnitTests\bin\Debug\DemoApp.pdb
+D:\github\.Net\DemoApp\LogicUnitTests\obj\Debug\LogicUnitTests.csprojResolveAssemblyReference.cache
+D:\github\.Net\DemoApp\LogicUnitTests\obj\Debug\LogicUnitTests.dll
+D:\github\.Net\DemoApp\LogicUnitTests\obj\Debug\LogicUnitTests.pdb

@@ -1,0 +1,9 @@
+D:\github\.Net\QueueLib\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\github\.Net\QueueLib\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\github\.Net\QueueLib\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\github\.Net\QueueLib\UnitTestProject\bin\Debug\nunit.framework.dll
+D:\github\.Net\QueueLib\UnitTestProject\bin\Debug\QueueLib.pdb
+D:\github\.Net\QueueLib\UnitTestProject\bin\Debug\nunit.framework.xml
+D:\github\.Net\QueueLib\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\github\.Net\QueueLib\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\github\.Net\QueueLib\UnitTestProject\bin\Debug\QueueLib.exe

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451464118 source:d:\github\Ñ++\powerseries\main.cpp
+	<iostream>
+	<math.h>
+

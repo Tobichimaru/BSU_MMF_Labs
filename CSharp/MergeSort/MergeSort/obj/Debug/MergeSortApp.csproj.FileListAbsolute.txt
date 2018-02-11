@@ -1,0 +1,7 @@
+D:\github\.Net\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+D:\github\.Net\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+D:\github\.Net\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\github\.Net\MergeSort\MergeSort\obj\Debug\MergeSortApp.csprojResolveAssemblyReference.cache
+D:\github\.Net\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+D:\github\.Net\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
+D:\github\.Net\MergeSort\MergeSort\bin\Debug\MergeSort.XML

@@ -1,0 +1,5 @@
+D:\github\.Net\QueueLib\QueueLib\bin\Debug\QueueLib.pdb
+D:\github\.Net\QueueLib\QueueLib\obj\Debug\QueueLib.csprojResolveAssemblyReference.cache
+D:\github\.Net\QueueLib\QueueLib\obj\Debug\QueueLib.pdb
+D:\github\.Net\QueueLib\QueueLib\bin\Debug\QueueLib.exe
+D:\github\.Net\QueueLib\QueueLib\obj\Debug\QueueLib.exe

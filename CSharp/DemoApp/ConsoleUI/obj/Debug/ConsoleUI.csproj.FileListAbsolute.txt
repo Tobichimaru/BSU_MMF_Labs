@@ -1,0 +1,8 @@
+D:\github\.Net\DemoApp\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\github\.Net\DemoApp\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\github\.Net\DemoApp\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\github\.Net\DemoApp\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\github\.Net\DemoApp\ConsoleUI\bin\Debug\DemoApp.dll
+D:\github\.Net\DemoApp\ConsoleUI\bin\Debug\DemoApp.pdb
+D:\github\.Net\DemoApp\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\github\.Net\DemoApp\ConsoleUI\obj\Debug\ConsoleUI.pdb

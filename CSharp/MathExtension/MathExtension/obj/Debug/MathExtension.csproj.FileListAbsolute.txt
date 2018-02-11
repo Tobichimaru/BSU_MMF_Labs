@@ -1,0 +1,15 @@
+D:\github\.Net\GCD\GCD\bin\Debug\GCD.dll
+D:\github\.Net\GCD\GCD\bin\Debug\GCD.pdb
+D:\github\.Net\GCD\GCD\obj\Debug\MathExtension.csprojResolveAssemblyReference.cache
+D:\github\.Net\GCD\GCD\obj\Debug\GCD.dll
+D:\github\.Net\GCD\GCD\obj\Debug\GCD.pdb
+D:\github\.Net\GCD\GCD\bin\Debug\nunit.framework.dll
+D:\github\.Net\GCD\GCD\bin\Debug\nunit.framework.xml
+D:\github\.Net\MathExtension\MathExtension\bin\Debug\GCD.dll
+D:\github\.Net\MathExtension\MathExtension\bin\Debug\GCD.pdb
+D:\github\.Net\MathExtension\MathExtension\bin\Debug\nunit.framework.dll
+D:\github\.Net\MathExtension\MathExtension\bin\Debug\nunit.framework.xml
+D:\github\.Net\MathExtension\MathExtension\obj\Debug\MathExtension.csprojResolveAssemblyReference.cache
+D:\github\.Net\MathExtension\MathExtension\obj\Debug\GCD.dll
+D:\github\.Net\MathExtension\MathExtension\obj\Debug\GCD.pdb
+D:\github\.Net\MathExtension\MathExtension\bin\Debug\GCD.dll.config

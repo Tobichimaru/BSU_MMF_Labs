@@ -1,0 +1,10 @@
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\ArrayApplication.dll
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\nunit.framework.dll
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\ArrayApplication.pdb
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\nunit.framework.xml
+D:\github\.Net\ArrayApplication\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\github\.Net\ArrayApplication\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\github\.Net\ArrayApplication\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\github\.Net\ArrayApplication\UnitTestProject\bin\Debug\nunit.core.interfaces.dll

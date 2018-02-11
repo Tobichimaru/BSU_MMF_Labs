@@ -1,0 +1,29 @@
+3
+Kate
+Zabelova
+Sergeevna
+dormitory 3, 515a
+123123
+5
+5
+60
+0
+Nastya
+Koroleva
+Igorevna
+Kamennaya Gorka
+321321
+6
+3
+40
+20
+Alex
+Shabunevich
+Bat'kovich
+Far away
+345435345
+10
+10
+120
+5
+

@@ -1,0 +1,15 @@
+D:\github\.Net\DemoApp\WpfUI\bin\Debug\WpfUI.exe.config
+D:\github\.Net\DemoApp\WpfUI\bin\Debug\WpfUI.exe
+D:\github\.Net\DemoApp\WpfUI\bin\Debug\WpfUI.pdb
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI.csprojResolveAssemblyReference.cache
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\MainWindow.baml
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\MainWindow.g.cs
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\App.g.cs
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI_MarkupCompile.cache
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI.g.resources
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI.Properties.Resources.resources
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI.csproj.GenerateResource.Cache
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI.exe
+D:\github\.Net\DemoApp\WpfUI\obj\Debug\WpfUI.pdb
+D:\github\.Net\DemoApp\WpfUI\bin\Debug\DemoApp.dll
+D:\github\.Net\DemoApp\WpfUI\bin\Debug\DemoApp.pdb

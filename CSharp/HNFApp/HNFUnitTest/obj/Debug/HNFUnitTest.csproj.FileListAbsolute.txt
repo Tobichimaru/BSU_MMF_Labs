@@ -1,0 +1,7 @@
+D:\github\.Net\HNFApp\HNFUnitTest\bin\Debug\HNFUnitTest.dll
+D:\github\.Net\HNFApp\HNFUnitTest\bin\Debug\HNFUnitTest.pdb
+D:\github\.Net\HNFApp\HNFUnitTest\bin\Debug\HNFApp.dll
+D:\github\.Net\HNFApp\HNFUnitTest\bin\Debug\HNFApp.pdb
+D:\github\.Net\HNFApp\HNFUnitTest\obj\Debug\HNFUnitTest.csprojResolveAssemblyReference.cache
+D:\github\.Net\HNFApp\HNFUnitTest\obj\Debug\HNFUnitTest.dll
+D:\github\.Net\HNFApp\HNFUnitTest\obj\Debug\HNFUnitTest.pdb

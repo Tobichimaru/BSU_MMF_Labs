@@ -1,0 +1,6 @@
+D:\github\.Net\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+D:\github\.Net\DemoApp\DemoApp\bin\Debug\DemoApp.dll.config
+D:\github\.Net\DemoApp\DemoApp\bin\Debug\DemoApp.dll
+D:\github\.Net\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+D:\github\.Net\DemoApp\DemoApp\obj\Debug\DemoApp.dll
+D:\github\.Net\DemoApp\DemoApp\obj\Debug\DemoApp.pdb

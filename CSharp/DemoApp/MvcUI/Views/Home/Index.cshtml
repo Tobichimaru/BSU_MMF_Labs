@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Hello!</h2>
+
+@model MvcUI.Models.UserModel
+
+@using (Html.BeginForm("Calculate", "Events"))
+{
+   <p>Please, print the number of elements in the array:</p>
+   @Html.TextBoxFor(m => m.ArrayLength)
+   <p>Please, print the elements of the array:</p>
+   @Html.TextBoxFor(m => m.ArrayElements)
+   <input type="submit" value="Calculate" />
+}
+
+

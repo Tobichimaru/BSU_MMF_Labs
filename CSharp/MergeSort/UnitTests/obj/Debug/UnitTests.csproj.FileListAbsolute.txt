@@ -1,0 +1,8 @@
+D:\github\.Net\MergeSort\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\github\.Net\MergeSort\UnitTests\bin\Debug\UnitTests.dll
+D:\github\.Net\MergeSort\UnitTests\bin\Debug\UnitTests.pdb
+D:\github\.Net\MergeSort\UnitTests\bin\Debug\MergeSort.exe
+D:\github\.Net\MergeSort\UnitTests\bin\Debug\MergeSort.pdb
+D:\github\.Net\MergeSort\UnitTests\obj\Debug\UnitTests.dll
+D:\github\.Net\MergeSort\UnitTests\obj\Debug\UnitTests.pdb
+D:\github\.Net\MergeSort\UnitTests\bin\Debug\MergeSort.xml
